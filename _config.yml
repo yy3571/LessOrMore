@@ -1,15 +1,20 @@
 # Site settings
+#博客名称
 name: 喵大人的博客
+#博主邮箱
 email: 
+#博主姓名
 author: 你好_喵大人
+#个人网址
 url: http://yy3571.github.io
+
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/yy3571/yy3571.github.io
 baseurl: ""
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+description: 我思故我在
+meta_description: 你好_喵大人;个人博客;我思故我在;我思故我在;生命不止;折腾不休
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: 我思故我在
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
